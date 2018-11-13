@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Extensions to the standard "os" package.
-package osext // import "github.com/gostores/osext"
+package osext // import "github.com/govenue/osext"
 
 import "path/filepath"
 
